@@ -1,0 +1,15 @@
+{"type":"Topology","objects":{"airports":{"type":"GeometryCollection","geometries":[
+    {"type":"Point","id":"ATL","coordinates":[2564,6970]},   
+    {"type":"Point","id":"ORD","coordinates":[2466,7641]},
+    {"type":"Point","id":"LAX","coordinates":[1604,6995]}, 
+    {"type":"Point","id":"DFW","coordinates":[2208,6911]},    
+    {"type":"Point","id":"JFK","coordinates":[2865,7534]}, 
+    {"type":"Point","id":"SFO","coordinates":[1491,7290]},
+    {"type":"Point","id":"LAS","coordinates":[1696,7167]},
+    {"type":"Point","id":"MIA","coordinates":[2682,6339]},
+    {"type":"Point","id":"MCO","coordinates":[2653,6551]},   
+    {"type":"Point","id":"YYZ","coordinates":[2700,7778]},
+    {"type":"Point","id":"SEA","coordinates":[1494,8081]}
+   
+  
+    ]}},"arcs":[],"transform":{"scale":[0.03537310564756069,0.012430679950546822],"translate":[-175.135635,-53.005069825517666]}}
