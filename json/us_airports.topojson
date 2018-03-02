@@ -1,0 +1,297 @@
+{
+    "type": "Topology",
+    "objects": {
+        "collection": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport1"
+                    },
+                    "coordinates": [
+                        2634,
+                        9853
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport2"
+                    },
+                    "coordinates": [
+                        3148,
+                        9206
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport3"
+                    },
+                    "coordinates": [
+                        1365,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport4"
+                    },
+                    "coordinates": [
+                        1381,
+                        7641
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport5"
+                    },
+                    "coordinates": [
+                        0,
+                        9382
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport6"
+                    },
+                    "coordinates": [
+                        1044,
+                        3409
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport7"
+                    },
+                    "coordinates": [
+                        1815,
+                        2563
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport8"
+                    },
+                    "coordinates": [
+                        3148,
+                        1956
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport9"
+                    },
+                    "coordinates": [
+                        3277,
+                        7069
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport10"
+                    },
+                    "coordinates": [
+                        4321,
+                        5859
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport11"
+                    },
+                    "coordinates": [
+                        4112,
+                        3160
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport12"
+                    },
+                    "coordinates": [
+                        5285,
+                        2594
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport13"
+                    },
+                    "coordinates": [
+                        6650,
+                        3778
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport14"
+                    },
+                    "coordinates": [
+                        8337,
+                        4492
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport15"
+                    },
+                    "coordinates": [
+                        8152,
+                        3916
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport16"
+                    },
+                    "coordinates": [
+                        7726,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport17"
+                    },
+                    "coordinates": [
+                        7052,
+                        3269
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport18"
+                    },
+                    "coordinates": [
+                        6280,
+                        5116
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport19"
+                    },
+                    "coordinates": [
+                        5614,
+                        4447
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport20"
+                    },
+                    "coordinates": [
+                        5196,
+                        7234
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport21"
+                    },
+                    "coordinates": [
+                        5325,
+                        9029
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport22"
+                    },
+                    "coordinates": [
+                        9003,
+                        6428
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport23"
+                    },
+                    "coordinates": [
+                        7806,
+                        5945
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport24"
+                    },
+                    "coordinates": [
+                        8585,
+                        7641
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport25"
+                    },
+                    "coordinates": [
+                        9597,
+                        7708
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport26"
+                    },
+                    "coordinates": [
+                        9999,
+                        9181
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": "airport27"
+                    },
+                    "coordinates": [
+                        3373,
+                        4984
+                    ]
+                }
+            ]
+        }
+    },
+    "arcs": [],
+    "transform": {
+        "scale": [
+            0.005471738580108009,
+            0.0023632718280375163
+        ],
+        "translate": [
+            -123.04687499999999,
+            25.522614647623293
+        ]
+    },
+    "bbox": [
+        -123.04687499999999,
+        25.522614647623293,
+        -68.3349609375,
+        49.15296965617042
+    ]
+}
