@@ -14,6 +14,21 @@
 
   <link rel="stylesheet" href="./css/v4blue.css">
   <style>
+    #title {
+  text-align: center;
+  padding-bottom: 60px;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.d3-tip {
+  line-height: 1.5;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 0px;
+  text-align: center;
+}
     #charts {
       float: left;
     }
@@ -34,7 +49,7 @@
     }
 
     .foreground.bar {
-      fill: steelblue;
+      fill: rgb(13, 3, 145);
     }
 
     .axis path,
@@ -60,6 +75,7 @@
 
     #chart path {
       stroke: #fff;
+      fill: red;
     }
 
     #chart path.highlighted {
@@ -155,6 +171,7 @@
     <div id="fligths-chart" class="chart">
       <div class="title">Range date</div>
     </div>
+    <button  onclick="javascript:stopFlightAnimations();">Stop</button>
   </div>
   <div id="map"></div>
 
@@ -164,6 +181,8 @@
   <script src="https://d3js.org/d3.v3.min.js"></script>
   <script src="https://d3js.org/queue.v1.min.js"></script>
   <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>  
+  
   <script src="./js/flightanimation.js"></script>
 
 </body>

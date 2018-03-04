@@ -6,7 +6,8 @@
             "properties": {
                 "aoi": 1,
                 "id": 1,
-                "airport": 1
+                "airport": 1,
+                "date":"2017-01-01"
             },
             "geometry": {
                 "type": "LineString",
@@ -199,7 +200,8 @@
             "properties": {
                 "id": 2,
                 "aoi": 2,
-                "airport": 1
+                "airport": 1,
+                "date":"2017-01-03"
             },
             "geometry": {
                 "type": "LineString",
@@ -506,12 +508,11 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                
                 "id": 3,
                 "aoi": 3,
-                "airport": 2
+                "airport": 2,
+                "date":"2017-01-03"
             },
             "geometry": {
                 "type": "LineString",
@@ -865,7 +866,13 @@
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "id": 33,
+                "aoi": 3,
+                "airport": 2,
+                "date":"2017-01-02"
+            }
+            ,
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -1167,10 +1174,11 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
-                "id": 5
+                
+                "id": 5,
+                "aoi": 3,
+                "airport": 2,
+                "date":"2017-01-02"
             },
             "geometry": {
                 "type": "LineString",
@@ -1409,9 +1417,9 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "aoi": 3,
+                "airport": 2,
+                "date":"2017-01-02",
                 "id": 6
             },
             "geometry": {
@@ -1718,7 +1726,12 @@
         },
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "aoi": 3,
+                "airport": 2,
+                "date":"2017-01-02",
+                "id": 66
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -2036,12 +2049,11 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                
                 "id": 8,
                 "aoi": 8,
-                "airport": 4
+                "airport": 4,
+                "date":"2017-01-02"
             },
             "geometry": {
                 "type": "LineString",
@@ -2492,9 +2504,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-06",
                 "id": 9,
                 "aoi": 9,
                 "airport": 4
@@ -2836,9 +2846,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-22",
                 "id": 10,
                 "aoi": 10,
                 "airport": 4
@@ -3168,9 +3176,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-02",
                 "id": 11,
                 "aoi": 11,
                 "airport": 4
@@ -3600,9 +3606,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-02",
                 "id": 30,
                 "aoi": 28,
                 "airport": 5
@@ -3832,9 +3836,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-12",
                 "id": 31,
                 "airport": 5,
                 "aoi": 12
@@ -3952,9 +3954,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-02",
                 "id": 31,
                 "airport": 5,
                 "aoi": 13
@@ -4260,9 +4260,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-12",
                 "id": 32,
                 "airport": 6,
                 "aoi": 14
@@ -4524,9 +4522,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-02",
                 "id": 33,
                 "airport": 6,
                 "aoi": 15
@@ -4748,9 +4744,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-01v",
                 "id": 34,
                 "airport": 7,
                 "aoi": 18
@@ -4988,9 +4982,7 @@
         {
             "type": "Feature",
             "properties": {
-                "stroke": "#555555",
-                "stroke-width": 2,
-                "stroke-opacity": 1,
+                "date":"2017-01-21",
                 "aoi": 17,
                 "airport": 7,
                 "id": 35
