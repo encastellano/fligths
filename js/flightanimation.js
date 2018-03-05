@@ -85,9 +85,9 @@ $(function () {
 
   }
   queue()
-    .defer(d3.json, "./public/json/flights.geo.json")
-    .defer(d3.json, "./public/json/states_land.topo.json")    
-    .defer(d3.json, "./public/data/airports.topojson")
+    .defer(d3.json, "./json/flights.geo.json")
+    .defer(d3.json, "./json/states_land.topo.json")    
+    .defer(d3.json, "./data/airports.topojson")
     .awaitAll(loaded);
 
 
