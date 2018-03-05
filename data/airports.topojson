@@ -1,0 +1,148 @@
+{
+    "type": "Topology",
+    "objects": {
+        "collection": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": 1
+                    },
+                    "coordinates": [
+                        0,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": 2
+                    },
+                    "coordinates": [
+                        1672,
+                        9915
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "id": 3
+                    },
+                    "coordinates": [
+                        5858,
+                        9759
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 4
+                    },
+                    "coordinates": [
+                        3348,
+                        6680
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 5
+                    },
+                    "coordinates": [
+                        9999,
+                        6617
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 6
+                    },
+                    "coordinates": [
+                        9609,
+                        4814
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 8
+                    },
+                    "coordinates": [
+                        8440,
+                        2802
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 7
+                    },
+                    "coordinates": [
+                        9005,
+                        3984
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 9
+                    },
+                    "coordinates": [
+                        8622,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "properties": {
+                        "marker-color": "#7e7e7e",
+                        "marker-size": "medium",
+                        "marker-symbol": "",
+                        "id": 10
+                    },
+                    "coordinates": [
+                        5475,
+                        2278
+                    ]
+                }
+            ]
+        }
+    },
+    "arcs": [],
+    "transform": {
+        "scale": [
+            0.004587250717259226,
+            0.002084521899216875
+        ],
+        "translate": [
+            -120.91552734375,
+            27.352252938063845
+        ]
+    },
+    "bbox": [
+        -120.91552734375,
+        27.352252938063845,
+        -75.047607421875,
+        48.19538740833338
+    ]
+}

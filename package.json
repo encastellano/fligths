@@ -1,6 +1,6 @@
 {
   "name": "Geomni-Fligths",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fligths viewer project.",
   "scripts": {
     "lite": "lite-server --port 10001",
