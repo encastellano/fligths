@@ -1,21 +1,25 @@
 {
-  "name": "Geomni-Fligths",
-  "version": "0.0.2",
+  "name": "geo.fligths",
+  "version": "0.0.3",
   "description": "Fligths viewer project.",
-  "devScripts": {
-    "lite": "lite-server --port 10001",
-    "start": "npm run lite"
-  },
-  "dependencies": {
-    "express": "4.13.3"
-  },
   "scripts": {
-    "start": "node web-server/app.js"
+    "start": "node app.js",
+    "stop": "pkill --signal SIGINT geomni.fligths"
   },
-  "author": "",
-  "license": "",
+  "author": "enieto",
+  "license": "ISC",
   "devDependencies": {
     "lite-server": "^1.3.1"
-  }
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encastellano/geomni-fligths.git"
+  },
+  "bugs": {
+    "url": "https://github.com/encastellano/geomni-fligths/issues"
+  },
+  "homepage": "https://github.com/encastellano/geomni-fligths#readme"
 }
-  
