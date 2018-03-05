@@ -30,11 +30,11 @@ $(function () {
     .pointRadius(2)
     .projection(projection);
   
-  var zoom = d3.behavior.zoom()
-    .translate(projection.translate())
-    .scale(projection.scale())
-    .scaleExtent([height, 8 * height])
-    .on("zoom", zoomed);
+  // var zoom = d3.behavior.zoom()
+  //   .translate(projection.translate())
+  //   .scale(projection.scale())
+  //   .scaleExtent([height, 8 * height])
+  //   .on("zoom", zoomed);
   
   
   var svg = d3.select("#map")
