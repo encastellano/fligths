@@ -41,8 +41,8 @@ $(function () {
     .append("svg")
     .attr("viewBox", "0 0 " + width + " " + height)
     .attr("width", width)
-    .attr("height", height)
-    .call(zoom);
+    .attr("height", height);
+   // .call(zoom);
 
   //   tip = d3.tip()
   //   .attr('class', 'd3-tip')
